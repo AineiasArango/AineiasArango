@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @AineiasArango
-- 👀 I’m interested in using machine learning for astrophysics.
-- 🌱 I’m currently learning machine learning techniques.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: sakaimachi@outlook.com.
+- 👀 I’m interested in building models of the brain, and using machine learning along the way.
+- 🌱 I’m currently learning how to use machine learning in computational neuroscience.
+- 📫 How to reach me: aasnha2@cantab.ac.uk.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 AineiasArango/AineiasArango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
